@@ -1,7 +1,7 @@
 ### Hola mundo! Hola profesor/es 👋
 
 <!--
-Acá pude abrir mi repositorio para subir el proyecto del curso de desarrollo fron-end.
+Acá pude abrir mi repositorio para subir el proyecto del curso de desarrollo front-end.
 El proyecto aún se encuentra en proceso, ya que no tuve mucho tiempo de trabajar en él.
 Si existe la posibilidad de extender un poco el tiempo para que pueda desarrollarlo 
 utilizando todos los recursos que adquirí durante el curso, sería un golazo! Digo esto porque se que la cursada
