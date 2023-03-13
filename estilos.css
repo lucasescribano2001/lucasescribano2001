@@ -8,7 +8,7 @@
 
 #navegacion{
     float: right;
-    background-color: lightgray;
+    background-color:  #cdcdcd;;
     height: 700px;
     width: 833px;
 }
@@ -17,7 +17,7 @@
 body{
 
 font-family:'Crimson';
-background-color: #215c6b;
+background-color: cadetblue;
 }
 
 #foto{ 
@@ -55,12 +55,12 @@ h1{
     padding-right: 24px;
     padding-bottom: 76px;
     padding-left: 110px;
-    background-color: lightsteelblue;
+    background-color: #a7adc1;
 }
 
 #Datos{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: lightgray;
+    background-color: #a7adc1;
     margin: 90px;
     padding: 40px;
 
@@ -68,8 +68,9 @@ h1{
 
 #PERFIL{
     font-size: 45px;
+    color: midnightblue;
     padding-bottom: 25px;
-    padding-left: 350px;
+    padding-left: 375px;
     padding-right: 350px;
     margin: 0;
 
@@ -79,19 +80,197 @@ h1{
 }
 
 
-#datosrelevantes{
-    background-color: lightgray;
-    margin: 40px;
-    padding: 30px;
-}
+
 
 #xpcompleta{
-    margin: 0;
-    padding-left: 396px;
-    padding-right: 412px;
+    background-color: #a7adc1;
+    display:inline-table
 }
+
 #EXPERIENCIA{
-    margin: 20px;
+    margin: auto;
+    margin-bottom: 50px;
+    width: fit-content;
     font-size: 40px;
-    background-color: lightsteelblue;
+    background-color:  #a7adc1;
+    color: midnightblue;
+}
+#trabajo1{
+    float: left;
+    width: fit-content;
+    margin: 5px;
+}
+
+#primerpuesto{
+    font-size: 36px;
+    margin: auto;
+    width: fit-content;}
+    
+#lugar{
+    font-size: 32px;
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: fit-content;
+    margin: 15px;
+}
+#fechaprimerpuesto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: #215c6b;
+    width: fit-content;
+}
+#tareas1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    width: fit-content;
+    margin: revert;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+#fotoref{
+    float: right;
+    font-size: 30px;
+    width: 500px;
+    padding: 76px 0px;
+    margin: 0px 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#trabajo2{
+    float: left;
+    width: fit-content;
+    margin: 10px;
+    padding: 2px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+
+}
+
+#segundopuesto{
+    font-size: 36px;
+    margin: auto;
+    margin-left: 221px;
+    width: fit-content;
+
+}
+#lugar2{
+    font-size: 32px;
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: fit-content;
+    margin: auto;
+    margin-left: 11px;
+}
+
+
+#fechasegundopuesto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: #215c6b;
+
+}
+#tareas2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    margin: revert;
+}
+
+#fotoref2{
+    float: right;
+    font-size: 30px;
+    width: 500px;
+    padding: 76px 0px;
+    margin: 0px 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#trabajo3{
+    float: left;
+    margin: 9px;
+    width: fit-content;
+    padding: 10px;
+}
+
+#tercerpuesto{
+    font-size: 36px;
+    margin: auto;
+    width: fit-content;
+    margin-left: 115px;
+}
+#lugar3{
+    font-size: 32px;
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 600px;
+}
+#fechatercerpuesto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: #215c6b;
+   
+}
+#tareas3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: black;
+}
+#fotoref3{
+    float: right;
+    font-size: 30px;
+    width: 500px;
+    padding: 0px 0px;
+    margin: 41px 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#datosacademicos{
+    float: left;
+    width: fit-content;
+    margin-top: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 10px;
+    background-color: #a7adc1;
+}
+#ESTUDIOS{
+    margin: auto;
+    width: fit-content;
+    font-size: 40px;
+    color: midnightblue;
+}
+
+#datosdecontacto{
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    background-color:#a7adc1;
+    margin-left: 510px;
+    margin-top: 30px;
+}
+
+#educacion{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: black;
+}
+
+#CONTACTO{
+    margin: auto;
+    width: fit-content;
+    font-size: 40px;
+    color: midnightblue;
+}
+
+#infocontacto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: black;
+    
+}
+
+#boton{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 191px;
+    background-color: cadetblue;
 }
